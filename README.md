@@ -1,4 +1,4 @@
-# Soft B
+# Soft Body Simulation
 
 ## Demo
 
