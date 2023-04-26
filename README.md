@@ -1,5 +1,7 @@
 # Soft Body Simulation
 
+This repository use particle system to simulate the sponge collides with the terrain.
+
 ## Demo
 
 ![ezgif-5-a8310b6e8a](https://user-images.githubusercontent.com/80531783/234442338-22096d73-cd47-4a99-86e6-4d7b239c00ef.gif)
